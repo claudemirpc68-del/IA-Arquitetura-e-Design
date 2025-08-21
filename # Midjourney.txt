@@ -1,0 +1,14 @@
+# Midjourney
+
+**Descrição:** Midjourney é uma ferramenta de inteligência artificial que gera imagens a partir de descrições textuais. É amplamente utilizado por arquitetos e designers para explorar rapidamente conceitos e visuais de projetos, servindo como uma fonte de inspiração para a fase inicial de design.
+
+**Funcionalidades:**
+* **Geração de imagens conceituais:** Crie renders e cenários arquitetônicos em segundos.
+* **Exploração de estilos:** Experimente diferentes estilos artísticos, de realismo a ilustrações abstratas.
+* **Análise de tendências:** Utilize para visualizar tendências de design.
+
+**Vídeo Explicativo:**
+[Assista ao vídeo oficial de introdução ao Midjourney](https://www.youtube.com/watch?v=-H1yDvIQna0)
+
+**Site Oficial:**
+[https://www.midjourney.com/](https://www.midjourney.com/)
