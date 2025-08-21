@@ -9,17 +9,4 @@ Aqui reunimos **tutoriais, exemplos de código, datasets, projetos e referência
 
 ---
 
-## 🎯 Objetivos  
-- Explorar aplicações de **IA e Machine Learning** em softwares de arquitetura (Archicad, Revit, FreeCAD, BlenderBIM, etc).  
-
-IA-BIM/
- ┣ archicad/check_doors_nbr.py
- ┣ revit/pyrevit_check_doors_nbr.py
- ┣ ifc/check_accessibility.py
- ┣ ai/prioritize.py
- ┣ rules/nbr9050_doors.yml
- ┣ reports/
- ┣ README.md
- ┣ CONTRIBUTING.md
- ┗ LICENSE
 
